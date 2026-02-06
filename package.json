@@ -1,0 +1,13 @@
+{
+  "name": "pdfs-db",
+  "version": "1.0.0",
+  "description": "Comprehensive PDF tools database. Free browser-based PDF processing — merge, split, compress, convert, and edit.",
+  "homepage": "https://pdfsdb.com",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jsvvsolsllc/pdfs-db"
+  },
+  "keywords": ["pdf-database","pdf-tools","pdf-resources","free-pdf","pdf-processing"],
+  "author": "JSVV SOLS LLC",
+  "license": "MIT"
+}
